@@ -7,7 +7,8 @@ Step3:To run the Login Page Click Index.html
 
 # Screenshot
 ![Screenshot (73)](https://github.com/ezhilezhil/Simple-Login-Page/assets/167604422/b963fde2-6905-486a-8f0e-f38fa0b79093)
-![Uploading demo2.jpg…]()
+
+![demo2](https://github.com/ezhilezhil/Simple-Login-Page/assets/167604422/e7d8890d-7dd6-44ab-992a-b557abf50729)
 
 # My Portfolio Website
 https://myportfoliowebsite2003.netlify.app/
